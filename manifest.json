@@ -1,0 +1,168 @@
+{
+  "id": "fast-note-sync",
+  "name": "Fast Note Sync 1.084",
+  "displayVersion": "1.084",
+  "version": "2.4.87",
+  "minAppVersion": "1.8.7",
+  "description": "Real-time sync of your vaults across server, mobile, and web; shareable with anyone; supports REST and MCP integrations to build your personal AI knowledge base.",
+  "author": "HaierKeys",
+  "authorUrl": "https://blog.diybeta.com",
+  "isDesktopOnly": false,
+  "fundingUrl": "https://ko-fi.com/haierkeys",
+  "fnsRelease": {
+    "schema": 1,
+    "id": "c77ceea0dcb16ae55fb655cadb8bd62f4afb5baa7d61953513a17b45198f6216",
+    "parent": "3e87ffff1487bb935f5f27e7f43af363d2f741d1084c2de5c860b570c6533251",
+    "hashes": {
+      "main.js": "6bef93bac33487c7742ff2ffb600c445d864b30acf5692a4d2d7378bb6c66276",
+      "styles.css": "1108e93c30b34219b3dabc89bbad42ff8eaff9f5e2bf32d54b9de1af685da5ee",
+      "manifest.json": "71f30bcc50af99f1b9aff209f4e4ffe001837cc1ca30b19cae515650d2edf48a"
+    },
+    "ancestors": [
+      {
+        "id": "3e87ffff1487bb935f5f27e7f43af363d2f741d1084c2de5c860b570c6533251",
+        "parent": "19185f3297f0cae1beba3fac667a37484b7fec1bb50a1627642ea2d1c893fb50",
+        "hashes": {
+          "main.js": "94a8ee4081984d695ffca9e7cf03759ce9079cca0f86e5027353d7bd4b599617",
+          "styles.css": "1108e93c30b34219b3dabc89bbad42ff8eaff9f5e2bf32d54b9de1af685da5ee",
+          "manifest.json": "b4bc281c4b58a438586d825cf50e8a7e5b0183434ddcebd55d0ef5f8a66cee31"
+        }
+      },
+      {
+        "id": "19185f3297f0cae1beba3fac667a37484b7fec1bb50a1627642ea2d1c893fb50",
+        "parent": "25c7f874f432f3693b955766269a74d2f83a1f59771e9a21bbf9755d7d734e61",
+        "hashes": {
+          "main.js": "72a5ef276547ad81daba014056e0c784d4b1798a97eaa390d2231174b194574d",
+          "styles.css": "1108e93c30b34219b3dabc89bbad42ff8eaff9f5e2bf32d54b9de1af685da5ee",
+          "manifest.json": "59ebc39d8b41e533377733e2450b1967fc54f178b00e20a10466b0cac5015027"
+        }
+      },
+      {
+        "id": "25c7f874f432f3693b955766269a74d2f83a1f59771e9a21bbf9755d7d734e61",
+        "parent": "d84ad04a7a75cf581ad2ccbe45538ac434b8fd8d7ed959f4457ced37fa7114c8",
+        "hashes": {
+          "main.js": "eeff2a9b795d2513e7ecd481edc50de86f8514ffdc193d114a45e3ccc824d28b",
+          "styles.css": "1108e93c30b34219b3dabc89bbad42ff8eaff9f5e2bf32d54b9de1af685da5ee",
+          "manifest.json": "edde02f64076cc4cd477d73b8104c26224e6238ca581ee21ce070b7cb8b6b0a3"
+        }
+      },
+      {
+        "id": "d84ad04a7a75cf581ad2ccbe45538ac434b8fd8d7ed959f4457ced37fa7114c8",
+        "parent": "7f7e86dfc41fdd30539c14d0510cc8e8e5e4b2868a264c56942eddc57e17d65a",
+        "hashes": {
+          "main.js": "a63f83b27dc856b3e7de383cc73c573be3ccfcd3daa2532c8d476e99f602b066",
+          "styles.css": "1108e93c30b34219b3dabc89bbad42ff8eaff9f5e2bf32d54b9de1af685da5ee",
+          "manifest.json": "b8f0de8653132fa09766edff3997b15c730e00bb7d1311748baf7ca866fa5f2c"
+        }
+      },
+      {
+        "id": "7f7e86dfc41fdd30539c14d0510cc8e8e5e4b2868a264c56942eddc57e17d65a",
+        "parent": "4c58a3560038b575221af2843beb2581fd0d58faa623c86631e85a90c612fb57",
+        "hashes": {
+          "main.js": "3de951f69659e58e6f8e1b1eede0e8fc90102813c059034c36e101e3e28313c2",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "8767f40a5088dc32de9b2f992447417cbc6a349323df627712ff1d3f984e9bb5"
+        }
+      },
+      {
+        "id": "4c58a3560038b575221af2843beb2581fd0d58faa623c86631e85a90c612fb57",
+        "parent": "573a29398c9884d84aba6dac8837aabdab4f205569c4349f60c6a112e7192b82",
+        "hashes": {
+          "main.js": "afe8d58c868cadc2852802d7152dd4c40a4db5e90f6459d6a32a0b05defbefb0",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "8767f40a5088dc32de9b2f992447417cbc6a349323df627712ff1d3f984e9bb5"
+        }
+      },
+      {
+        "id": "573a29398c9884d84aba6dac8837aabdab4f205569c4349f60c6a112e7192b82",
+        "parent": "d4569d527a5f34a8cb40d549242655dc0384cb2f99f9fd4fbb4e2c8a82d53156",
+        "hashes": {
+          "main.js": "1556126c3c689320602efb30d03fe2787babe0d04a3167d844d9461b433cec99",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "8767f40a5088dc32de9b2f992447417cbc6a349323df627712ff1d3f984e9bb5"
+        }
+      },
+      {
+        "id": "d4569d527a5f34a8cb40d549242655dc0384cb2f99f9fd4fbb4e2c8a82d53156",
+        "parent": "a98c1bf792378c2ba39292a2eabc6c33e43ce22a83674c32dedf2bb72f1aa0f0",
+        "hashes": {
+          "main.js": "ac799b613d32859dc46ff8a4066b58f0adaf7a5efaa10f4b79ad464b42c9f49e",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "8767f40a5088dc32de9b2f992447417cbc6a349323df627712ff1d3f984e9bb5"
+        }
+      },
+      {
+        "id": "a98c1bf792378c2ba39292a2eabc6c33e43ce22a83674c32dedf2bb72f1aa0f0",
+        "parent": "423beb3f2f4dacfa0deb36102b6233766c777970387df8ee553760ac29027434",
+        "hashes": {
+          "main.js": "d0d7f04b10b855aea72c86c1d30db5dc1bc237b944af8088557aa80637816805",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "8767f40a5088dc32de9b2f992447417cbc6a349323df627712ff1d3f984e9bb5"
+        }
+      },
+      {
+        "id": "423beb3f2f4dacfa0deb36102b6233766c777970387df8ee553760ac29027434",
+        "parent": "efb7664dfbacda3a842cb6210af2a9470a2435a843ee70680493a16775103eac",
+        "hashes": {
+          "main.js": "bb123616b60b33e0f15acc8f376d2b6ca3ece10948a7138e46d091a5a333a6a4",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "dc9de3f55364465b74f6f2bbd74d9777677489304f613fa996dceff4e8c0bcea"
+        }
+      },
+      {
+        "id": "efb7664dfbacda3a842cb6210af2a9470a2435a843ee70680493a16775103eac",
+        "parent": "1b70c71d2cba222d14281d6419a867aa1b775391d7567d31592a702fcb87d132",
+        "hashes": {
+          "main.js": "593b1fd4137f0efcbd508526fa4b577d0bfed34e781464188c97b77dcc51528e",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "dc9de3f55364465b74f6f2bbd74d9777677489304f613fa996dceff4e8c0bcea"
+        }
+      },
+      {
+        "id": "1b70c71d2cba222d14281d6419a867aa1b775391d7567d31592a702fcb87d132",
+        "parent": "e1ad65361e1f8cbedd774b101dac98d13806f846b62d49f8e69384500e60d5f5",
+        "hashes": {
+          "main.js": "23632903124f26d3c26a6841b8741138b15206d439447007ee03c5fb2d25079c",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "dc9de3f55364465b74f6f2bbd74d9777677489304f613fa996dceff4e8c0bcea"
+        }
+      },
+      {
+        "id": "e1ad65361e1f8cbedd774b101dac98d13806f846b62d49f8e69384500e60d5f5",
+        "parent": "2e954e4760d5c7da3252481ea204d039ec0bd4ebdd416f3f804ac5019e45121c",
+        "hashes": {
+          "main.js": "41e53ed872e33271cb493e46e1252381cd4351cde229266d17884ad8c816c098",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "bf664e533fb557a8d7a146a9f07b3861016062717c4249da004238ccd40d378b"
+        }
+      },
+      {
+        "id": "2e954e4760d5c7da3252481ea204d039ec0bd4ebdd416f3f804ac5019e45121c",
+        "parent": "05b223b109f463893aa3e1081b065637e7781a927677159cff185fd8fa8e5e56",
+        "hashes": {
+          "main.js": "2dff01413aa94f9fd69721d15ec4f119a2e233e3339409ff34bcb4fd9366bd1f",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "dd85a167b1e21905383b817ae3066cd789f8206ad820465220d295eb6b254710"
+        }
+      },
+      {
+        "id": "05b223b109f463893aa3e1081b065637e7781a927677159cff185fd8fa8e5e56",
+        "parent": "39ae05baa043b9048ce1f4193170a805c5225bf53a61551138e28e803ab06dc0",
+        "hashes": {
+          "main.js": "1606adbc6676a5957921c5b18b321eac278bef124e9476ee88ff40d73e664f31",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "12fd12f6ceb239a6f1c8582e84af9b88e7c474574a22db2f56f038c59d2dfadd"
+        }
+      },
+      {
+        "id": "39ae05baa043b9048ce1f4193170a805c5225bf53a61551138e28e803ab06dc0",
+        "parent": "ca969c16c26909b88bca70048f48c0499bf67121f4e5a0ee82b533a4f5d515c0",
+        "hashes": {
+          "main.js": "81ce85aef02bfee677b05ab9cda6cbe3e4d0f38099dd71a1c228020cb13a09e3",
+          "styles.css": "b46198c24ceb3b6cb4776d911d03c247611e6cbf9ab763c39677b169c79993c2",
+          "manifest.json": "0cf9bb809563561782cf91f7f17cb1d51af7ff12247d6cfd04b10d93fb0571bb"
+        }
+      }
+    ]
+  }
+}
