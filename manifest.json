@@ -1,8 +1,8 @@
 {
   "id": "fast-note-sync",
-  "name": "Fast Note Sync 1.084",
-  "displayVersion": "1.084",
-  "version": "2.4.87",
+  "name": "Fast Note Sync 1.085",
+  "displayVersion": "1.085",
+  "version": "2.4.88",
   "minAppVersion": "1.8.7",
   "description": "Real-time sync of your vaults across server, mobile, and web; shareable with anyone; supports REST and MCP integrations to build your personal AI knowledge base.",
   "author": "HaierKeys",
@@ -11,14 +11,23 @@
   "fundingUrl": "https://ko-fi.com/haierkeys",
   "fnsRelease": {
     "schema": 1,
-    "id": "c77ceea0dcb16ae55fb655cadb8bd62f4afb5baa7d61953513a17b45198f6216",
-    "parent": "3e87ffff1487bb935f5f27e7f43af363d2f741d1084c2de5c860b570c6533251",
+    "id": "f13ccd14dd5fd01a9c716db5f353bb756badee808ce1c9966d31ab514409187c",
+    "parent": "c77ceea0dcb16ae55fb655cadb8bd62f4afb5baa7d61953513a17b45198f6216",
     "hashes": {
-      "main.js": "6bef93bac33487c7742ff2ffb600c445d864b30acf5692a4d2d7378bb6c66276",
+      "main.js": "ceb72652f630362e433f6b28c575a7c87271ea57c9cf272ae807c5e12d2957a7",
       "styles.css": "1108e93c30b34219b3dabc89bbad42ff8eaff9f5e2bf32d54b9de1af685da5ee",
-      "manifest.json": "71f30bcc50af99f1b9aff209f4e4ffe001837cc1ca30b19cae515650d2edf48a"
+      "manifest.json": "15f8f4a90611efbccff888baf01646b2fafc1e87cd4ce77be78cc0d181d2a7a2"
     },
     "ancestors": [
+      {
+        "id": "c77ceea0dcb16ae55fb655cadb8bd62f4afb5baa7d61953513a17b45198f6216",
+        "parent": "3e87ffff1487bb935f5f27e7f43af363d2f741d1084c2de5c860b570c6533251",
+        "hashes": {
+          "main.js": "6bef93bac33487c7742ff2ffb600c445d864b30acf5692a4d2d7378bb6c66276",
+          "styles.css": "1108e93c30b34219b3dabc89bbad42ff8eaff9f5e2bf32d54b9de1af685da5ee",
+          "manifest.json": "71f30bcc50af99f1b9aff209f4e4ffe001837cc1ca30b19cae515650d2edf48a"
+        }
+      },
       {
         "id": "3e87ffff1487bb935f5f27e7f43af363d2f741d1084c2de5c860b570c6533251",
         "parent": "19185f3297f0cae1beba3fac667a37484b7fec1bb50a1627642ea2d1c893fb50",
